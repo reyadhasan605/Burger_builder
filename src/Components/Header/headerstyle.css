@@ -1,0 +1,7 @@
+.navbrand{
+    margin-left:50px
+}
+.active{
+    text-shadow: 1px 1px green;
+    color:white
+}
